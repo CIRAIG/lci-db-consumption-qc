@@ -8,4 +8,4 @@ For further information or inquiries, please visit the CIRAIG’s site dedicated
 
 # Contents
 
-🔗 The webpage can be accessed following this [link]().
+🔗 The webpage can be accessed following this [link](https://ciraig.github.io/lci-db-consumption-qc/).
